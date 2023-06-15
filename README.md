@@ -2,7 +2,7 @@
 Test solution
 
 To resolve this test and implement Optional<Block> findBlockByColor(String color), List<Block> findBlocksByMaterial(String material),
-int count() methods from interface Structure first I had to notice that is the template of the composer design pattern.
+int count() methods from interface Structure first I had to notice that is the template of the composite design pattern.
   
 After that the code became more readable for me and gave me more flexibility so I could start the work with the methods implementation.
 In this case I know two different solutions for the Optional<Block> findBlockByColor(String color) and
